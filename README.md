@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhawesh-Jain
-- 👀 I’m interested in learning software engineering 
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning Android, Java, Kotlin and XML
 - 📫 How to reach me bhaweshjain384@gmail.com
 
 <!---
