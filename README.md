@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhawesh-Jain
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android, Java, Kotlin and XML
+- 🌱 I’m currently working as a Junior Android Developer
 - 📫 How to reach me bhaweshjain384@gmail.com
 
 <!---
