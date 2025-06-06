@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Building SaaS, Mobile & Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FFB3&center=true&width=460&lines=Flutter+%7C+Next.js+%7C+MySQL;Loan+SaaS+%7C+ERP+Builder+%7C+PLM+Designs;Clean+Code+%7C+Real+Impact+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=22&duration=2500&pause=1000&color=00FFB3&center=true&width=460&lines=Flutter+%7C+Next.js+%7C+MySQL;Loan+SaaS+%7C+ERP+Builder+%7C+PLM+Designs;Clean+Code+%7C+Real+Impact+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
@@ -39,13 +39,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://yourwebsite.com/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img alt="LinkedIn" src="linkedin.com/in/bhawesh-jain-b24141229" />
   </a>
 </p>
 
