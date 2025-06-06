@@ -47,15 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhawesh-Jain&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhawesh-Jain&theme=tokyonight" width="800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhawesh-Jain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhawesh-Jain&theme=tokyonight" width="1200" height="800" />
 </p>
 
 
