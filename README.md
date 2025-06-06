@@ -1,54 +1,62 @@
 <h1 align="center">Hey 👋, I'm Bhawesh Jain</h1>
-<h3 align="center">Self-Taught Developer | Product-Focused Builder | Always Iterating</h3>
+<h3 align="center"><strong>Self-Taught Full-Stack Developer | Builder First | Code with Context</strong></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=2500&pause=1000&color=00FFB3&center=true&width=480&lines=Flutter+%7C+Next.js+%7C+MySQL;Self-Taught+Android+to+Fullstack;Clean+Code+%7C+Real+Impact+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=I+build+systems,+not+just+features.;Flutter+%7C+Next.js+%7C+MySQL;Self-Taught+%7C+API+First+%7C+Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🔧 Tools I Reach For
 
-#### 🚀 Current Stack
-- **Frontend:** Flutter, Next.js, Tailwind CSS
-- **Backend:** Node.js, Next.js API Routes
-- **Database:** MySQL
-- **Dev Tools:** VSCode, Postman, Git, Figma
-
-#### 🔙 Background
-- Started with **Android Native (Java/Kotlin)**
-- First real backend: **Node.js + Express APIs**
-- Now building **full-stack SaaS platforms**, mostly solo
+| Frontend      | Backend       | Mobile     | DB / Infra       |
+|---------------|---------------|------------|------------------|
+| Next.js       | Node.js       | Flutter    | MySQL            |
+| Tailwind CSS  | Express       | Kotlin     | Firebase,Mongodb |
+| React         | REST APIs     | Java       | Vercel, VPS      |
 
 ---
 
-### 🧩 What I'm Building
-- 🏦 **Loan Management SaaS** for NBFCs — approval workflows, repayment logic, field app
-- 📦 **ERP-style modular platform** — user-driven layout rendering using blocks
-- 📲 **Flutter Apps** — mobile-first UX for inspection, inventory, and service flows
+### 🛠️ My Dev Story
+
+- 📱 Started in Android using **Java/Kotlin**
+- 🌐 Shifted to backend with **Node.js APIs**
+- 🚀 Now building full-stack products with **Flutter + Next.js + SQL**
+- 🧠 Self-taught — No bootcamps, no degrees. Just docs, bugs, and shipping.
+- 🧪 I care about **clean architecture**, **scalability**, and **user-first design**
 
 ---
 
-### 🧠 Self-Taught Journey
-> No bootcamps. No CS degree. Just problem-solving, curiosity, and docs.
+### 🧩 Projects I’m Building
 
-- 📱 Started in Android (Java → Kotlin)
-- 🌐 Learned backend with Node.js before trying full-stack
-- 🔁 Constantly learning new patterns, refactoring, and building better systems
+- 🏦 **Loan SaaS** — Approval engine, field app, EMI rules, multi-role dashboards  
+- 📦 **ERP Core** — Custom block-based UI renderer (like Notion meets CRM)  
+- 📲 **Inventory & Ops Mobile Tools** — Lightweight apps for real-world fieldwork  
 
 ---
 
-### 📊 GitHub Stats
+### 📈 My Activity Style
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhawesh-Jain&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhawesh-Jain&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhawesh-Jain&theme=react-dark&hide_border=true&area=true&custom_title=🔥+My+Commit+Activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhawesh-Jain&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 👣 Some Things About Me
+
+- 🧩 I design from the data model outwards
+- 🔁 I refactor almost as much as I build
+- 🧘 I like clean UIs, clear logic, and silent commits
+- ⚙️ I believe backend is where **real UX begins**
+
+---
+
+### 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/" target="_blank">
