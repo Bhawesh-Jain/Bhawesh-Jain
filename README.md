@@ -2,7 +2,7 @@
 <h3 align="center"><strong>Self-Taught Full-Stack Developer | Builder First | Code with Context</strong></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700duration=2500&pause=1000&color=00FFB3&center=true&width=480&lines=Self-Taught+%7C+Always+Learning;I+build+systems,+not+just+features.;Flutter+%7C+Next.js+%7C+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&duration=2500&pause=1000&color=00FFB3&center=true&width=480&lines=Self-Taught+%7C+Always+Learning;I+build+systems,+not+just+features.;Flutter+%7C+Next.js+%7C+SQL" alt="Typing SVG" />
 </p>
 
 ---
