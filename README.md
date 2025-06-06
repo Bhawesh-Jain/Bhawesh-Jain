@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhawesh-Jain&theme=tokyonight" width="1200" height="800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhawesh-Jain&theme=tokyonight" width="1500" />
 </p>
 
 
