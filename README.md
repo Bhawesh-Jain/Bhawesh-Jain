@@ -6,6 +6,8 @@
 </p>
 
 ---
+<div align="center">
+
 
 ### 🔧 Tools I Reach For
 
@@ -14,6 +16,8 @@
 | Next.js       | Node.js       | Flutter    | MySQL            |
 | Tailwind CSS  | Express       | Kotlin     | Firebase,Mongodb |
 | React         | REST APIs     | Java       | Vercel, VPS      |
+</div>
+
 
 ---
 
@@ -66,7 +70,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bhawesh-Jain.Bhawesh-Jain" alt="visitor badge"/>
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaweshjainskype@gmail.com)
-</p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhawesh-jain-b24141229)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaweshjainskype@gmail.com)
+
+</div>
