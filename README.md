@@ -68,4 +68,5 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Bhawesh-Jain.Bhawesh-Jain" alt="visitor badge"/>
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaweshjainskype@gmail.com)
 </p>
