@@ -6,6 +6,16 @@
 </p>
 
 ---
+
+### 🛠️ My Dev Story
+
+- 📱 Started in Android using **Java/Kotlin**
+- 🌐 Shifted to backend with **Node.js APIs**
+- 🚀 Now building full-stack products with **Flutter + Next.js + SQL**
+- 🧠 Self-taught — No bootcamps, no degrees. Just docs, bugs, and shipping.
+- 🧪 I care about **clean architecture**, **scalability**, and **user-first design**
+
+
 <div align="center">
 
 
@@ -16,18 +26,9 @@
 | Next.js       | Node.js       | Flutter    | MySQL            |
 | Tailwind CSS  | Express       | Kotlin     | Firebase,Mongodb |
 | React         | REST APIs     | Java       | Vercel, VPS      |
+
 </div>
 
-
----
-
-### 🛠️ My Dev Story
-
-- 📱 Started in Android using **Java/Kotlin**
-- 🌐 Shifted to backend with **Node.js APIs**
-- 🚀 Now building full-stack products with **Flutter + Next.js + SQL**
-- 🧠 Self-taught — No bootcamps, no degrees. Just docs, bugs, and shipping.
-- 🧪 I care about **clean architecture**, **scalability**, and **user-first design**
 
 ---
 
