@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Building SaaS, Mobile & Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=22&duration=2500&pause=1000&color=00FFB3&center=true&width=460&lines=Flutter+%7C+Next.js+%7C+MySQL;|Loan+SaaS+%7C+ERP+Builder+%7C+PLM+Designs;Clean+Code+%7C+Real+Impact+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=22&duration=2500&pause=1000&color=00FFB3&center=true&width=460&lines=Flutter+%7C+Next.js+%7C+MySQL;Loan+SaaS+%7C+ERP+Builder+%7C;Clean+Code+%7C+Real+Impact+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
