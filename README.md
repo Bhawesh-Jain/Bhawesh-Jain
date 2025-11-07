@@ -66,15 +66,6 @@
 
 ---
 
-##  Other Repos & Experiments
-
-- **loanwise-saas**: Core codebase for my NBFC SaaS platform
-- **flutter-order-app**: Flutter-based customer app for field operations
-- **nextjs-dynamic-form-builder**: Headless form UI system powered by configurable schemas
-
-(Scroll through [my pinned repos](https://github.com/Bhawesh-Jain?tab=repositories) for more)
-
----
 
 ##  My Edge
 
