@@ -94,7 +94,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bhawesh-Jain&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bhawesh-Jain)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
